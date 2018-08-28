@@ -1,0 +1,9 @@
+{
+  "description": "一个简易的PHP MVC框架",
+  "name": "MVC",
+  "homepage": "https://uckendo.github.io/",
+  "require": {
+    "php": ">=7",
+    "nikic/php-parser": "^4.0"
+  }
+}
